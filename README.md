@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/CafeComLeiteC">
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=CafeComLeiteC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=CafeComLeiteC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeComLeiteC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
