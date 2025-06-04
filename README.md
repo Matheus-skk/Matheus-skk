@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/CafeComLeiteC">
+  <a href="https://github.com/Matheus-skk">
   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=cafecomleitec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafecomleitec&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,5 +14,5 @@
   <img align= "center"  alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
-![Snake animation](https://github.com/CafeComLeiteC/CafeComLeiteC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matheus-skk/Matheus-skk/blob/output/github-contribution-grid-snake.svg)
  
